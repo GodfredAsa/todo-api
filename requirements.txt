@@ -1,0 +1,15 @@
+Flask==2.0.0
+pytest==8.3.5
+Flask-Mail==0.9.1
+Flask-RESTful==0.3.9
+flask-swagger-ui
+Flask-SQLAlchemy==2.5.1
+SQLAlchemy==1.4.44
+Flask-Migrate
+typing_extensions==4.4.0
+Werkzeug==2.0.0
+requests~=2.28.1
+bcrypt
+PyJWT>=2.8,<3.0
+Flask-JWT-Extended
+pytest-cov
